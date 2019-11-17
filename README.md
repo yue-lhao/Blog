@@ -1,2 +1,3 @@
 # mypictures.github.com
-This is a website
+## images: 存放文章图片
+## themepicture: 存放随机的北京图片
